@@ -20,7 +20,7 @@
 
 1. **Apague todo o código** que está no editor
 2. Copie e cole o conteúdo do arquivo:
-   - [worker.js](file:///C:/Users/thiag/.gemini/antigravity/scratch/bus-tracker/cloudflare-worker/worker.js)
+   - [worker.js](./worker.js)
 3. Clique em **Save and Deploy**
 
 ---
