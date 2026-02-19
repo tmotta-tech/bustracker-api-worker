@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Wrangler
+.wrangler/
+dist/
+worker.js.map
+
+# IDE
+.idea/
+.vscode/
